@@ -12,5 +12,5 @@ a smaller change
 
 
 
-A BIGGER CAHNGE
+A BIGGER CHANGE
 
